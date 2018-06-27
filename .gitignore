@@ -1,0 +1,6 @@
+#Compiler/generated files to ignore
+*.pyc
+*.svg
+*.gv
+*.png
+result
